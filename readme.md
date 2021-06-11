@@ -31,6 +31,10 @@ design
 ![image](https://user-images.githubusercontent.com/1906471/121627180-e3996580-ca44-11eb-9c08-e753502f38d7.png)
 
 
-## 
+## data pipeline
+
+https://www.youtube.com/watch?v=VtzvF17ysbc
+
+
 
 
