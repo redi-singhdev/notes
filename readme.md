@@ -40,6 +40,12 @@ https://www.youtube.com/watch?v=VtzvF17ysbc
 
 https://www.youtube.com/watch?v=nMyuCdqzpZc
 
+### z-score
+![image](https://user-images.githubusercontent.com/1906471/121738436-35370400-cac8-11eb-869d-afe8d07f9841.png)
+https://www.statisticshowto.com/probability-and-statistics/z-score/
+https://www.youtube.com/watch?v=16vAjsnazEM&feature=emb_imp_woyt
+
+
 
 
 
