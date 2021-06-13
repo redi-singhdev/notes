@@ -49,5 +49,8 @@ https://www.youtube.com/watch?v=16vAjsnazEM&feature=emb_imp_woyt
 
 
 
+## MS Architecture
+
+https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#explicit-dependencies
 
 
