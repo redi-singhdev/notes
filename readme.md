@@ -80,6 +80,7 @@ https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542
 
 
 ## linkedin talk on gobblin
+
 https://www.youtube.com/watch?v=BQ7aONetKl4
 
 ### grayed out  in following are non gobblin specific, reset is gobblin specific 
@@ -104,6 +105,20 @@ https://www.youtube.com/watch?v=BQ7aONetKl4
 
 ![image](https://user-images.githubusercontent.com/1906471/121798408-2188bc00-cbf4-11eb-83bf-656e10ed3fdc.png)
 
+### one spec multiple env
+
+![image](https://user-images.githubusercontent.com/1906471/121798873-be4c5900-cbf6-11eb-8481-03762138a50c.png)
+
+
+
+
+## gobblin architecture
+
+https://gobblin.apache.org/docs/Gobblin-Architecture/
+
+![image](https://user-images.githubusercontent.com/1906471/121798680-b4762600-cbf5-11eb-875a-6f24c787aa86.png)
+
+![image](https://user-images.githubusercontent.com/1906471/121798704-d2438b00-cbf5-11eb-8d1f-1e44454b2590.png)
 
 
 
