@@ -87,5 +87,22 @@ https://www.youtube.com/watch?v=BQ7aONetKl4
 ![image](https://user-images.githubusercontent.com/1906471/121797852-de791980-cbf0-11eb-95df-20d7078a1d04.png)
 
 
+![image](https://user-images.githubusercontent.com/1906471/121798311-87287880-cbf3-11eb-8768-bd86e4479e5e.png)
+
+
+![image](https://user-images.githubusercontent.com/1906471/121798321-9efffc80-cbf3-11eb-8314-1d7c47661574.png)
+
+
+![image](https://user-images.githubusercontent.com/1906471/121798334-ade6af00-cbf3-11eb-8b84-29b928a3c627.png)
+
+
+![image](https://user-images.githubusercontent.com/1906471/121798360-cf479b00-cbf3-11eb-968d-4198d51d5855.png)
+
+
+![image](https://user-images.githubusercontent.com/1906471/121798399-0f0e8280-cbf4-11eb-863b-b1d738edb157.png)
+
+
+
+
 
 
