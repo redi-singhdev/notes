@@ -54,3 +54,11 @@ https://www.youtube.com/watch?v=16vAjsnazEM&feature=emb_imp_woyt
 https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#explicit-dependencies
 
 
+## core code
+
+https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddlewareFactory.cs
+
+https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddleware.cs
+
+
+
