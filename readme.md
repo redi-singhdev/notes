@@ -49,6 +49,13 @@ https://www.youtube.com/watch?v=nMyuCdqzpZc
 ![image](https://user-images.githubusercontent.com/1906471/121797926-43cd0a80-cbf1-11eb-8087-d26fd45a8df2.png)
 
 
+### pull vs push/notify 
+![image](https://user-images.githubusercontent.com/1906471/121798078-36fce680-cbf2-11eb-9dd2-6ce73d879cf8.png)
+
+
+![image](https://user-images.githubusercontent.com/1906471/121798091-4aa84d00-cbf2-11eb-96f0-37f2e5648b11.png)
+
+
 
 
 ### z-score
