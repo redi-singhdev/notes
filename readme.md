@@ -1,4 +1,9 @@
 
+## to dos 
+
+in my deriviatives i need same day of week compare of first of month compare too not just t-1
+
+
 
 # tech bites:
 
@@ -39,6 +44,12 @@ https://www.youtube.com/watch?v=VtzvF17ysbc
 ## netflix
 
 https://www.youtube.com/watch?v=nMyuCdqzpZc
+
+
+![image](https://user-images.githubusercontent.com/1906471/121797926-43cd0a80-cbf1-11eb-8087-d26fd45a8df2.png)
+
+
+
 
 ### z-score
 ![image](https://user-images.githubusercontent.com/1906471/121738436-35370400-cac8-11eb-869d-afe8d07f9841.png)
