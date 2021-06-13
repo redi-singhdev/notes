@@ -102,6 +102,24 @@ https://www.youtube.com/watch?v=BQ7aONetKl4
 ![image](https://user-images.githubusercontent.com/1906471/121798399-0f0e8280-cbf4-11eb-863b-b1d738edb157.png)
 
 
+![image](https://user-images.githubusercontent.com/1906471/121798408-2188bc00-cbf4-11eb-83bf-656e10ed3fdc.png)
+
+
+
+
+## tolerance engine using ML
+
+
+https://www.ustream.tv/channel/JUMjvCF2ucj
+
+
+![image](https://user-images.githubusercontent.com/1906471/121798586-331e9380-cbf5-11eb-9f53-e7a3cdd46dfa.png)
+
+
+
+
+
+
 
 
 
