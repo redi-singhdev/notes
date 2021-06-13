@@ -61,4 +61,13 @@ https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542
 https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddleware.cs
 
 
+## linkedin talk on gobblin
+https://www.youtube.com/watch?v=BQ7aONetKl4
+
+### grayed out  in following are non gobblin specific, reset is gobblin specific 
+
+![image](https://user-images.githubusercontent.com/1906471/121797852-de791980-cbf0-11eb-95df-20d7078a1d04.png)
+
+
+
 
