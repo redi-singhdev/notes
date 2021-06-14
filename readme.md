@@ -74,16 +74,6 @@ https://www.youtube.com/watch?v=16vAjsnazEM&feature=emb_imp_woyt
 
 
 
-## MS Architecture
-
-https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#explicit-dependencies
-
-
-## core code
-
-https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddlewareFactory.cs
-
-https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddleware.cs
 
 
 ## linkedin talk on gobblin
@@ -144,5 +134,28 @@ https://www.ustream.tv/channel/JUMjvCF2ucj
 
 
 
+# code notes
+
+
+## MS Architecture
+
+https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles#explicit-dependencies
+
+
+##  dotnet core code middleware
+
+https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddlewareFactory.cs
+
+https://github.com/dotnet/aspnetcore/blob/52eff90fbcfca39b7eb58baad597df6a99a542b0/src/Http/Http.Abstractions/src/IMiddleware.cs
+
+
+## gobblin task
+
+https://github.com/apache/gobblin/blob/096562c634c3c8dac63fddd607b5132d9363522f/gobblin-runtime/src/main/java/org/apache/gobblin/runtime/task/TaskIFace.java#L29
+
+
+## azure ingest data --
+
+https://docs.microsoft.com/en-us/azure/data-explorer/net-sdk-ingest-data
 
 
