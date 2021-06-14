@@ -159,3 +159,13 @@ https://github.com/apache/gobblin/blob/096562c634c3c8dac63fddd607b5132d9363522f/
 https://docs.microsoft.com/en-us/azure/data-explorer/net-sdk-ingest-data
 
 
+## azure ingest documentation on github
+
+https://github.com/MicrosoftDocs/dataexplorer-docs/blob/a7c4c051a1c956aa8a2cfa511bf590a7f373243e/data-explorer/kusto/api/netfx/kusto-ingest-client-reference.md
+
+on web: 
+
+https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-reference
+
+vid tutorial : https://www.youtube.com/watch?v=upU_Desx4XM
+
