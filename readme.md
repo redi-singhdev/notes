@@ -167,3 +167,17 @@ on web:  https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/ku
 
 vid tutorial : https://www.youtube.com/watch?v=upU_Desx4XM
 
+
+![image](https://user-images.githubusercontent.com/1906471/121837587-fc538680-cca3-11eb-855e-e006a4471b78.png)
+
+
+
+![image](https://user-images.githubusercontent.com/1906471/121837665-2b69f800-cca4-11eb-8fe0-d6d26b307195.png)
+
+
+
+![image](https://user-images.githubusercontent.com/1906471/121837802-88fe4480-cca4-11eb-993b-ee31fbd109ab.png)
+
+
+
+
