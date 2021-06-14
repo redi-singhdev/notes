@@ -163,9 +163,7 @@ https://docs.microsoft.com/en-us/azure/data-explorer/net-sdk-ingest-data
 
 https://github.com/MicrosoftDocs/dataexplorer-docs/blob/a7c4c051a1c956aa8a2cfa511bf590a7f373243e/data-explorer/kusto/api/netfx/kusto-ingest-client-reference.md
 
-on web: 
-
-https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-reference
+on web:  https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-reference
 
 vid tutorial : https://www.youtube.com/watch?v=upU_Desx4XM
 
