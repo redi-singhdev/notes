@@ -187,6 +187,8 @@ doc entry point : https://docs.microsoft.com/en-us/azure/data-explorer/ingest-sa
 
 col map doc  : https://docs.microsoft.com/en-us/azure/data-explorer/kusto/management/mappings
 
+advance col map: https://docs.microsoft.com/en-us/azure/data-explorer/net-sdk-ingest-data
+
 ingest client: https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-reference
 
 ingest code sample : https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-examples
@@ -194,4 +196,5 @@ ingest code sample : https://docs.microsoft.com/en-us/azure/data-explorer/kusto/
 github code ref? : https://github.com/search?q=IKustoIngestClient&type=code
 
 more: https://github.com/MicrosoftDocs/dataexplorer-docs/blob/a7c4c051a1c956aa8a2cfa511bf590a7f373243e/data-explorer/kusto/api/netfx/kusto-ingest-client-reference.md
+
 
