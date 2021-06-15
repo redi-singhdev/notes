@@ -215,4 +215,9 @@ https://engineering.linkedin.com/blog/2021/fastingest-low-latency-gobblin
 
 
 
+# main main main --- all sdk interface definations
+
+https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-reference
+
+
 
