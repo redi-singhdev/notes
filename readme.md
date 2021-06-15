@@ -214,3 +214,5 @@ kusto supporte files : https://docs.microsoft.com/en-us/azure/data-explorer/inge
 https://engineering.linkedin.com/blog/2021/fastingest-low-latency-gobblin
 
 
+
+
