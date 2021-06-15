@@ -198,3 +198,7 @@ github code ref? : https://github.com/search?q=IKustoIngestClient&type=code
 more: https://github.com/MicrosoftDocs/dataexplorer-docs/blob/a7c4c051a1c956aa8a2cfa511bf590a7f373243e/data-explorer/kusto/api/netfx/kusto-ingest-client-reference.md
 
 
+kusto supporte files : https://docs.microsoft.com/en-us/azure/data-explorer/ingestion-supported-formats
+
+
+
