@@ -220,4 +220,12 @@ https://engineering.linkedin.com/blog/2021/fastingest-low-latency-gobblin
 https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-reference
 
 
+### phase 1
+
+* batch only integration
+* ingestion : object and key-val only, key-val store. default table only
+* summarizer : in memory summarize only.
+* plugins: 
+
+
 
