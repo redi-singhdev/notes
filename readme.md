@@ -193,7 +193,7 @@ ingest client: https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/ne
 
 ingest code sample : https://docs.microsoft.com/en-us/azure/data-explorer/kusto/api/netfx/kusto-ingest-client-examples
 
-https://www.npmjs.com/package/azure-kusto-ingest
+typescript sample code: https://www.npmjs.com/package/azure-kusto-ingest
 
 
 
